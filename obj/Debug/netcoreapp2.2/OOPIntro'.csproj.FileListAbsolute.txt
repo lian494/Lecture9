@@ -1,0 +1,11 @@
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture9\OOPIntro'\obj\Debug\netcoreapp2.2\OOPIntro'.csprojAssemblyReference.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture9\OOPIntro'\obj\Debug\netcoreapp2.2\OOPIntro'.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture9\OOPIntro'\obj\Debug\netcoreapp2.2\OOPIntro'.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture9\OOPIntro'\obj\Debug\netcoreapp2.2\OOPIntro'.AssemblyInfo.cs
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture9\OOPIntro'\bin\Debug\netcoreapp2.2\OOPIntro'.deps.json
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture9\OOPIntro'\bin\Debug\netcoreapp2.2\OOPIntro'.runtimeconfig.json
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture9\OOPIntro'\bin\Debug\netcoreapp2.2\OOPIntro'.runtimeconfig.dev.json
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture9\OOPIntro'\bin\Debug\netcoreapp2.2\OOPIntro'.dll
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture9\OOPIntro'\bin\Debug\netcoreapp2.2\OOPIntro'.pdb
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture9\OOPIntro'\obj\Debug\netcoreapp2.2\OOPIntro'.dll
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture9\OOPIntro'\obj\Debug\netcoreapp2.2\OOPIntro'.pdb
